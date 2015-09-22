@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir -p frontend/web/assets frontend/runtime console/runtime
+chmod -R 777 frontend/web/assets frontend/runtime console/runtime

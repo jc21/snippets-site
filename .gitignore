@@ -1,0 +1,14 @@
+.idea
+nbproject
+.buildpath
+.project
+.settings
+Thumbs.db
+composer.phar
+composer.lock
+.DS_Store
+.AppleDouble
+/vendor
+common/config/main.php
+console/runtime
+frontend/runtime
