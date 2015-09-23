@@ -29,7 +29,7 @@ class m150922_000000_initial extends Migration
           PRIMARY KEY (`id`)
         )');
 
-        $this->execute('INSERT INTO `Language` (`id`, `slug`, `name`, `renderCode`, `isHidden`) VALUES
+        $this->execute('INSERT INTO `Language` (`slug`, `name`, `renderCode`, `isHidden`) VALUES
           ("php","PHP","php",0),
           ("javascript","Javascript","javascript",0),
           ("actionscript","Actionscript","actionscript",0),
