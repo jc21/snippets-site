@@ -9,7 +9,6 @@ A Yii2 Site for hosting your own Snippets with Member accounts
 - Password reset functionality
 - Bookmarks
 - Basic statistics tracking
-- [View it in action](http://snippets.jc21.com)
 
 ### Installation
 
